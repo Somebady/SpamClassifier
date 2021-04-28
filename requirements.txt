@@ -10,3 +10,5 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
+requests==2.24.0
+cx-Oracle==7.3.0
